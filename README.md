@@ -176,7 +176,7 @@ Engagement and satisfaction are averaged into a single 1–5 score, which is the
 
 ### Page 1 — Executive Summary
 
-![Executive Summary](images/executive_summary.png)
+![Executive Summary](executive_summary.png)
 
 Seven KPI cards across the top, with slicers for department, performance score and manager. Below them:
 
@@ -188,7 +188,7 @@ Seven KPI cards across the top, with slicers for department, performance score a
 
 ### Page 2 — Workforce Database
 
-![Workforce Database](images/workforce_database.png)
+![Workforce Database](workforce_database.png)
 
 An employee-level table for HR business partners who need to look up individuals rather than aggregates: name, salary, tenure, position, absence rate, satisfaction, recruitment source, gender, marital status, performance, retention risk, ethnicity and employment status — filtered by the same slicers as page 1, plus an employee name search.
 
